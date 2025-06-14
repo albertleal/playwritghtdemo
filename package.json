@@ -8,6 +8,9 @@
   "author": "",
   "license": "ISC",
   "description": "",
+  "dependencies": {
+    "playwright": "^1.40.0"
+  },
   "devDependencies": {
     "ts-node": "^10.9.2"
   }
